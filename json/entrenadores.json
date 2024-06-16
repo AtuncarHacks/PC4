@@ -1,0 +1,17 @@
+[
+    {"id": 1, "nombre": "Ash Ketchum", "pokemones": ["Pikachu", "Charizard", "Bulbasaur", "Squirtle", "Snorlax"]},
+    {"id": 2, "nombre": "Misty", "pokemones": ["Starmie", "Psyduck", "Togepi", "Corsola", "Gyarados"]},
+    {"id": 3, "nombre": "Brock", "pokemones": ["Onix", "Geodude", "Vulpix", "Zubat", "Crobat"]},
+    {"id": 4, "nombre": "Gary Oak", "pokemones": ["Blastoise", "Arcanine", "Sandslash", "Nidoking", "Dodrio"]},
+    {"id": 5, "nombre": "May", "pokemones": ["Blaziken", "Beautifly", "Mudkip", "Skitty", "Munchlax"]},
+    {"id": 6, "nombre": "Dawn", "pokemones": ["Piplup", "Buneary", "Pachirisu", "Mamoswine", "Quilava"]},
+    {"id": 7, "nombre": "Brendan", "pokemones": ["Sceptile", "Swampert", "Aggron", "Sharpedo", "Absol"]},
+    {"id": 8, "nombre": "Cynthia", "pokemones": ["Garchomp", "Lucario", "Spiritomb", "Milotic", "Gastrodon"]},
+    {"id": 9, "nombre": "Red", "pokemones": ["Charizard", "Blastoise", "Venusaur", "Snorlax", "Espeon"]},
+    {"id": 10, "nombre": "Blue", "pokemones": ["Blastoise", "Arcanine", "Rhydon", "Exeggutor", "Gyarados"]},
+    {"id": 11, "nombre": "Gold", "pokemones": ["Typhlosion", "Feraligatr", "Ampharos", "Scizor", "Sudowoodo"]},
+    {"id": 12, "nombre": "Silver", "pokemones": ["Feraligatr", "Crobat", "Sneasel", "Murkrow", "Gengar"]},
+    {"id": 13, "nombre": "Steven", "pokemones": ["Metagross", "Aggron", "Skarmory", "Claydol", "Armaldo"]},
+    {"id": 14, "nombre": "Wallace", "pokemones": ["Milotic", "Ludicolo", "Whiscash", "Gyarados", "Sealeo"]}
+  ]
+  
